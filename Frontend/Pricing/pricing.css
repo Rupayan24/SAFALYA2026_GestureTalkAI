@@ -223,6 +223,10 @@ body::before {
    ENROLL BUTTON
 ========================= */
 .buy-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
     margin-top: 30px;
     width: 100%;
     padding: 16px;
@@ -452,3 +456,4 @@ body::before {
     opacity: 1;
   }
 }
+
