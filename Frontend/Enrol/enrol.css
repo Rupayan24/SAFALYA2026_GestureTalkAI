@@ -1,0 +1,109 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background:
+    linear-gradient(
+      rgba(10, 31, 68, 0.75),
+      rgba(10, 31, 68, 0.65)
+    ),
+    url("Space_pic.jpg") center/cover no-repeat;
+  color: #ffffff;
+
+  text-align: center;
+}
+
+/* =========================
+   NAVBAR
+========================= */
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 6px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgba(35, 40, 74, 0.55);
+    backdrop-filter: blur(5px);
+    z-index: 1000;
+}
+
+
+/* LOGO BIGGER */
+.logo img {
+  height: 75px;
+  width: auto;
+}
+
+/* NAV LINKS */
+.navbar nav a {
+  position: relative;
+  margin: 0 20px;
+  text-decoration: none;
+  color: #b5c0f1;
+  font-weight: 500;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+/* HOVER EFFECT */
+.navbar nav a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 0;
+  height: 2px;
+  background: linear-gradient(90deg, #1f3bb3, #5a7dff);
+  transition: width 0.3s ease;
+}
+
+.navbar nav a:hover {
+  color: #536bb3;
+}
+
+.navbar nav a:hover::after {
+  width: 100%;
+}
+
+/* GET STARTED BUTTON */
+.btn-start {
+ background: linear-gradient(135deg, #0e1e65, #35305c);
+  border: 2px solid #a293ca;
+  border-radius: 30px;
+  padding: 10px 24px;
+  cursor: pointer;
+}
+
+.btn-start a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+
+.content{
+  margin: 15% auto 0;
+  padding-top: 100px;
+
+  text-align: center;
+}
+
+.content h1{
+  font-size: 65px;
+  font-weight: 700;
+  align-items: center;
+}
+
+.content h2{
+  font-size: 45px;
+  font-weight: 300;
+  padding-top: 20px;
+}
+
