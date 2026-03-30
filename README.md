@@ -46,14 +46,13 @@ Beyond interpretation, GestureTalk AI enables users to **learn sign language fun
 
 ---
 
+![image alt](https://github.com/Rupayan24/SAFALYA2026_GestureTalkAI/blob/5bf560ce97859d64565f6ac891bb0ecf5b1ebd48/SIGNLanguageIMG/Prototype_SS/Screenshot%202026-01-28%20051720.png)
 
-https://github.com/Rupayan24/SAFALYA2026_GestureTalkAI/blob/5bf560ce97859d64565f6ac891bb0ecf5b1ebd48/SIGNLanguageIMG/Prototype_SS/Screenshot%202026-01-28%20051720.png
+![image alt](https://github.com/Rupayan24/SAFALYA2026_GestureTalkAI/blob/b0396b6acfa54f41d28377992be1162e25baed01/SIGNLanguageIMG/Prototype_SS/Screenshot%202026-01-28%20052225.png)
 
+![image alt](https://github.com/Rupayan24/SAFALYA2026_GestureTalkAI/blob/bf20bd8170a7521c9df29ddcea611f1da7e5eebd/SIGNLanguageIMG/Prototype_SS/Screenshot%202026-01-28%20052707.png)
 
-https://github.com/Rupayan24/SAFALYA2026_GestureTalkAI/blob/b0396b6acfa54f41d28377992be1162e25baed01/SIGNLanguageIMG/Prototype_SS/Screenshot%202026-01-28%20052225.png
-
-
-https://github.com/Rupayan24/SAFALYA2026_GestureTalkAI/blob/bf20bd8170a7521c9df29ddcea611f1da7e5eebd/SIGNLanguageIMG/Prototype_SS/Screenshot%202026-01-28%20052707.png
+![image alt](https://github.com/Rupayan24/SAFALYA2026_GestureTalkAI/blob/35044e36e8a07a148ce41b352c8aa40f095e024a/SIGNLanguageIMG/Prototype_SS/Screenshot%202026-01-28%20053024.png)
 
 ## 🧠 System Architecture
 
