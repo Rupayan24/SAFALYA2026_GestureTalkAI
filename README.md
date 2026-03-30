@@ -117,5 +117,5 @@ GestureTalk AI is not just a sign language interpreter—it is a complete, AI-po
 
 
 
-
+![image alt](https://github.com/Rupayan24/SAFALYA2026_GestureTalkAI/blob/76e3202f2c502ffe91eb5b6f26095a35d4ac0acd/logo.png)
 
