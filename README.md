@@ -127,6 +127,9 @@ To test the trained model locally using a webcam:
 ## 🏁 Conclusion
 GestureTalk AI is not just a sign language interpreter—it is a complete, AI-powered ecosystem for communication, learning, and inclusive education. By combining real-time gesture interpretation, structured sign language learning, mentor-led academic courses, and intelligent user support, GestureTalk AI aims to bridge communication and education gaps and move closer to a future where accessibility is the standard, not an exception.
 
+---
+
+## Demo Video
 
 [![IMAGE ALT TEXT](https://github.com/Rupayan24/SAFALYA2026_GestureTalkAI/blob/9f0ed65c62a1b6d01cd3598e79ab4d67281dd173/SIGNLanguageIMG/Prototype_SS/Screenshot%202026-03-30%20205558.png)](https://youtu.be/V4-FOgXQVWQ?si=zjt-n-1HRn3YOGsp)
 
