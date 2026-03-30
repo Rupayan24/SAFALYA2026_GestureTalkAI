@@ -46,6 +46,9 @@ Beyond interpretation, GestureTalk AI enables users to **learn sign language fun
 
 ---
 
+
+https://github.com/Rupayan24/SAFALYA2026_GestureTalkAI/blob/5bf560ce97859d64565f6ac891bb0ecf5b1ebd48/SIGNLanguageIMG/Prototype_SS/Screenshot%202026-01-28%20051720.png
+
 ## 🧠 System Architecture
 
 GestureTalk AI follows a **clean, modular, and scalable client–server architecture**:
