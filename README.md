@@ -2,7 +2,6 @@
 
 
 
-# GestureTalk AI 🤟  
 **AI-Powered Sign Language Interpreter, Translator & Learning Platform**
 
 ---
@@ -12,6 +11,8 @@
 **GestureTalk AI** is an AI-powered web application designed to bridge communication and education gaps for deaf and hard-of-hearing individuals. The platform performs **real-time sign language interpretation and translation** using computer vision and machine learning, while also providing a **sign-first learning ecosystem**.
 
 Beyond interpretation, GestureTalk AI enables users to **learn sign language fundamentals**, track learning progress, access **mentor-led academic courses**, and receive guidance through an integrated AI chatbot — all through an accessible web interface.
+
+![image alt](https://github.com/Rupayan24/SAFALYA2026_GestureTalkAI/blob/ae8f32245edd401ae2832b9285588125f3d518b4/SIGNLanguageIMG/Prototype_SS/Screenshot%202026-01-26%20082502.png)
 
 ---
 
